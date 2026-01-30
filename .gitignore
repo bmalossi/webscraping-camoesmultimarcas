@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+venv/
+ENV/
+
+# Selenium / Chrome
+chromedriver
+chromedriver.exe
+*.log
+erro_debug.png
+screenshot_*.png
+
+# Data (Opcional - mas comum ignorar em repositórios de código se forem muito grandes)
+# estoque_camoes.json
+# estoque_camoes.csv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific debug
+debug_page.html
+relatorio_testes.json
