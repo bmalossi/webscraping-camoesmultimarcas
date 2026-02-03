@@ -9,7 +9,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 import json
 import csv
@@ -48,9 +47,13 @@ class CamoesEstoqueFinal:
         chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
         chrome_options.add_experimental_option('useAutomationExtension', False)
         
-        # Service para baixar driver automaticamente se necessário
-        service = Service(ChromeDriverManager().install())
-        driver = webdriver.Chrome(service=service, options=chrome_options)
+        # A partir do Selenium 4.6, o driver é gerenciado automaticamente
+        # Não é mais necessário usar ChromeDriverManager().install()
+        try:
+            driver = webdriver.Chrome(options=chrome_options)
+        except Exception:
+            # Fallback forçado caso o path precise ser explícito no ambiente
+            driver = webdriver.Chrome(options=chrome_options)
         driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
         
         return driver
