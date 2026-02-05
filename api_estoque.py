@@ -12,6 +12,11 @@ import time
 
 app = Flask(__name__)
 
+# Configurar JSON para usar UTF-8 corretamente
+app.config['JSON_AS_ASCII'] = False
+app.config['JSON_SORT_KEYS'] = False
+app.config['JSONIFY_MIMETYPE'] = 'application/json; charset=utf-8'
+
 # Arquivo do estoque
 ESTOQUE_FILE = 'estoque_camoes.json'
 
