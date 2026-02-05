@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
   "ultima_atualizacao": "2026-02-05 15:53:05",
   "total_veiculos": 27,
   "veiculos": [
     {
       "data_scraping": "2026-02-05 15:52:05",
+=======
+  "ultima_atualizacao": "2026-02-05 18:43:46",
+  "total_veiculos": 27,
+  "veiculos": [
+    {
+      "data_scraping": "2026-02-05 18:43:25",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -48,7 +56,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:08",
+=======
+      "data_scraping": "2026-02-05 18:43:26",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -128,7 +140,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:10",
+=======
+      "data_scraping": "2026-02-05 18:43:27",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -184,7 +200,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:11",
+=======
+      "data_scraping": "2026-02-05 18:43:27",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7480503",
       "modelo": "HYUNDAI HB20S COMFORT 1.0 TB FLEX 12V AUT.",
       "marca": "HYUNDAI",
@@ -240,7 +260,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:14",
+=======
+      "data_scraping": "2026-02-05 18:43:28",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -284,7 +308,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:16",
+=======
+      "data_scraping": "2026-02-05 18:43:30",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -331,7 +359,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:18",
+=======
+      "data_scraping": "2026-02-05 18:43:30",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7547819",
       "modelo": "VOLKSWAGEN T-Cross Sense 200 TSI 1.0 Flex 5p Aut",
       "marca": "VOLKSWAGEN",
@@ -392,7 +424,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:32",
+=======
+      "data_scraping": "2026-02-05 18:43:31",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7194234",
       "modelo": "RENAULT OROCH PRO 16",
       "marca": "RENAULT",
@@ -436,7 +472,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:35",
+=======
+      "data_scraping": "2026-02-05 18:43:32",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTRAPID BUSIPK",
       "marca": "PEUGEOT",
@@ -483,7 +523,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:37",
+=======
+      "data_scraping": "2026-02-05 18:43:32",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7494079",
       "modelo": "FIAT MOBI LIKE",
       "marca": "FIAT",
@@ -533,7 +577,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:38",
+=======
+      "data_scraping": "2026-02-05 18:43:33",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7366200",
       "modelo": "TOYOTA YARIS HA PLS15CNT",
       "marca": "TOYOTA",
@@ -590,7 +638,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:40",
+=======
+      "data_scraping": "2026-02-05 18:43:34",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -636,7 +688,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:41",
+=======
+      "data_scraping": "2026-02-05 18:43:35",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7754359",
       "modelo": "HONDA CITY HATCH EXL",
       "marca": "HONDA",
@@ -693,7 +749,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:43",
+=======
+      "data_scraping": "2026-02-05 18:43:35",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7618182",
       "modelo": "JEEP RENEGADE 1.8 AT",
       "marca": "JEEP",
@@ -725,7 +785,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:44",
+=======
+      "data_scraping": "2026-02-05 18:43:36",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
@@ -777,7 +841,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:46",
+=======
+      "data_scraping": "2026-02-05 18:43:37",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7472147",
       "modelo": "VOLKSWAGEN JETTA COMFORT. 250 TSI 1.4 FLEX 16V AUT",
       "marca": "VOLKSWAGEN",
@@ -829,7 +897,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:48",
+=======
+      "data_scraping": "2026-02-05 18:43:38",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
@@ -888,7 +960,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:50",
+=======
+      "data_scraping": "2026-02-05 18:43:39",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -948,7 +1024,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:51",
+=======
+      "data_scraping": "2026-02-05 18:43:40",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -1009,7 +1089,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:53",
+=======
+      "data_scraping": "2026-02-05 18:43:40",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -1069,7 +1153,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:54",
+=======
+      "data_scraping": "2026-02-05 18:43:41",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -1119,7 +1207,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:57",
+=======
+      "data_scraping": "2026-02-05 18:43:42",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7714105",
       "modelo": "HONDA NXR 150 BROS-ES",
       "marca": "HONDA",
@@ -1149,7 +1241,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:58",
+=======
+      "data_scraping": "2026-02-05 18:43:43",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -1208,7 +1304,11 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:52:59",
+=======
+      "data_scraping": "2026-02-05 18:43:43",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -1259,7 +1359,52 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:53:01",
+=======
+      "data_scraping": "2026-02-05 18:43:44",
+      "codigo": "6823066",
+      "modelo": "YAMAHA SHO FZR WAVERUNNER",
+      "marca": "YAMAHA",
+      "versao": "FZR WAVERUNNER",
+      "preco": "R$ 65.900,00",
+      "ano": "2011",
+      "km": "354",
+      "cambio": "NENHUM",
+      "combustivel": "GASOLINA",
+      "cor": "VERMELHO",
+      "foto_principal": "https://s3.carro57.com.br/FC/6561/6823066_6_M_bf656c7f27.jpeg",
+      "link": "https://camoesmultimarcas.com.br/carros/Yamaha/Sho/Fzr-Waverunner/Yamaha-Sho-Fzr-Waverunner-2011-Santos-Sao-Paulo-6823066.html",
+      "fotos": [
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_bf656c7f27.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_0_W_3d1960e773.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_1_W_4b67d88b8c.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_1_W_20852a500c.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_4_W_4477703a1b.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_1_W_278a9abf28.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_19_W_69b59453e0.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_ede0813344.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_685b5bdc52.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_0e824238c6.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_84344b095a.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_bb152dac7a.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_6dee60658e.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_d0c600d29a.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_721f04e92f.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_32f21ec9fc.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_6_W_abc034162f.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_3_W_15ec1ba180.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_17_W_25135811c5.jpeg",
+        "https://s3.carro57.com.br/FC/6561/6823066_17_W_eab7b7ec10.jpeg"
+      ],
+      "detalhes": "Detalhes\nYamaha Sho Waverunner FZR ano 2010 inscrição 2011\n354 Horas;\nAcompanha carretinha;\n\nRecentemente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia. | Detalhes\nYamaha Sho Waverunner FZR ano 2010 inscrição 2011\n354 Horas;\nAcompanha carretinha;\n\nRecentemente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia. | Detalhes\nYamaha Sho Waverunner FZR ano 2010 inscrição 2011\n354 Horas;\nAcompanha carretinha;\n\nRecentemente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia. | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
+      "opcionais": [
+        "Opcionais"
+      ]
+    },
+    {
+      "data_scraping": "2026-02-05 18:43:45",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7651137",
       "modelo": "HYUNDAI I30 2.0",
       "marca": "HYUNDAI",
@@ -1316,6 +1461,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "data_scraping": "2026-02-05 15:53:02",
       "codigo": "6823066",
       "modelo": "YAMAHA SHO FZR WAVERUNNER",
@@ -1358,6 +1504,9 @@
     },
     {
       "data_scraping": "2026-02-05 15:53:04",
+=======
+      "data_scraping": "2026-02-05 18:43:46",
+>>>>>>> f93867a688e158f2010a8c9c3b1e63092213b3e1
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
