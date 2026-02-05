@@ -130,8 +130,13 @@ class CamoesEstoqueFinal:
                             dados_veiculo['fotos'] = detalhes['fotos']
                             if detalhes['cor']:
                                 dados_veiculo['cor'] = detalhes['cor']
+                            # Adicionar detalhes e opcionais extraídos
+                            dados_veiculo['detalhes'] = detalhes.get('detalhes', '')
+                            dados_veiculo['opcionais'] = detalhes.get('opcionais', [])
                         else:
                             dados_veiculo['fotos'] = []
+                            dados_veiculo['detalhes'] = ''
+                            dados_veiculo['opcionais'] = []
 
                         self.estoque.append(dados_veiculo)
                         num_fotos = len(dados_veiculo.get('fotos', []))
@@ -370,7 +375,7 @@ class CamoesEstoqueFinal:
                     EC.presence_of_element_located((By.TAG_NAME, "h2"))
                 )
             
-            detalhes = {'fotos': [], 'cor': ''}
+            detalhes = {'fotos': [], 'cor': '', 'detalhes': '', 'opcionais': []}
             
             # 1. Extrair todas as fotos da galeria (atributo 'ref' contém o link da imagem grande)
             try:
@@ -399,6 +404,42 @@ class CamoesEstoqueFinal:
                         valor_cor = item.find_element(By.CSS_SELECTOR, "strong.font-det03").text.strip()
                         detalhes['cor'] = valor_cor
                         break
+            except:
+                pass
+            
+            # 3. Extrair Detalhes do veículo (div.bloco)
+            try:
+                blocos = self.driver.find_elements(By.CSS_SELECTOR, "div.bloco")
+                textos_detalhes = []
+                for bloco in blocos:
+                    texto = bloco.text.strip()
+                    if texto:  # Ignora blocos vazios
+                        textos_detalhes.append(texto)
+                # Juntar todos os blocos de detalhes em um texto único
+                detalhes['detalhes'] = ' | '.join(textos_detalhes) if textos_detalhes else ''
+            except:
+                pass
+            
+            # 4. Extrair Opcionais do veículo (div.spoiler)
+            try:
+                spoilers = self.driver.find_elements(By.CSS_SELECTOR, "div.spoiler")
+                lista_opcionais = []
+                for spoiler in spoilers:
+                    texto_spoiler = spoiler.text.strip()
+                    if texto_spoiler:
+                        # Os opcionais vêm separados por vírgula no texto
+                        # Exemplo: "ABS, Airbag, Apoio De Braço, Ar-condicionado, ..."
+                        itens = [item.strip() for item in texto_spoiler.split(',')]
+                        for item in itens:
+                            # Limpar e adicionar apenas se não estiver vazio e não for duplicado
+                            item_limpo = item.strip()
+                            # Remover o cabeçalho "Opcionais" que pode vir no primeiro item
+                            if '\n' in item_limpo:
+                                item_limpo = item_limpo.split('\n')[-1].strip()
+                            if item_limpo and item_limpo not in lista_opcionais:
+                                lista_opcionais.append(item_limpo)
+                
+                detalhes['opcionais'] = lista_opcionais
             except:
                 pass
                 
