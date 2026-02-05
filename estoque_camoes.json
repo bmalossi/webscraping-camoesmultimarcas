@@ -1,9 +1,9 @@
 {
-  "ultima_atualizacao": "2026-02-04 05:44:10",
-  "total_veiculos": 29,
+  "ultima_atualizacao": "2026-02-05 05:52:28",
+  "total_veiculos": 27,
   "veiculos": [
     {
-      "data_scraping": "2026-02-04 05:43:31",
+      "data_scraping": "2026-02-05 05:51:58",
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:33",
+      "data_scraping": "2026-02-05 05:51:59",
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:34",
+      "data_scraping": "2026-02-05 05:52:00",
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:35",
+      "data_scraping": "2026-02-05 05:52:01",
       "codigo": "7480503",
       "modelo": "HYUNDAI HB20S COMFORT 1.0 TB FLEX 12V AUT.",
       "marca": "HYUNDAI",
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:37",
+      "data_scraping": "2026-02-05 05:52:03",
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:39",
+      "data_scraping": "2026-02-05 05:52:05",
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:40",
+      "data_scraping": "2026-02-05 05:52:06",
       "codigo": "7547819",
       "modelo": "VOLKSWAGEN T-Cross Sense 200 TSI 1.0 Flex 5p Aut",
       "marca": "VOLKSWAGEN",
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:41",
+      "data_scraping": "2026-02-05 05:52:07",
       "codigo": "7194234",
       "modelo": "RENAULT OROCH PRO 16",
       "marca": "RENAULT",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:43",
+      "data_scraping": "2026-02-05 05:52:08",
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTRAPID BUSIPK",
       "marca": "PEUGEOT",
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:44",
+      "data_scraping": "2026-02-05 05:52:09",
       "codigo": "7494079",
       "modelo": "FIAT MOBI LIKE",
       "marca": "FIAT",
@@ -336,41 +336,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:46",
-      "codigo": "7426338",
-      "modelo": "FIAT ARGO DRIVE 1.0",
-      "marca": "FIAT",
-      "versao": "DRIVE 1.0",
-      "preco": "R$ 61.900,00",
-      "ano": "2023",
-      "km": "80.000",
-      "cambio": "MANUAL",
-      "combustivel": "FLEX",
-      "cor": "BRANCO",
-      "foto_principal": "https://s3.carro57.com.br/FC/6561/7426338_16_M_909baedec3.jpeg",
-      "link": "https://camoesmultimarcas.com.br/carros/Fiat/Argo/Drive-10/Fiat-Argo-Drive-10-2023-Santos-Sao-Paulo-7426338.html",
-      "fotos": [
-        "https://s3.carro57.com.br/FC/6561/7426338_16_W_909baedec3.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_0_W_34563be3f5.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_0_W_12dee18e5c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_0_W_7a9fbd6903.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_13_W_97b8fe914b.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_13_W_6c2ca2dcf0.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_2_W_725f0d1b3e.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_0_W_280f751833.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_0_W_bb492227da.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_7_W_60b35f8358.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_0_W_7689db90b3.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_1_W_a79ac06ad3.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_2_W_d149d68dd1.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_1_W_eff2f3306c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_15_W_9db84657ec.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_16_W_697c8428d2.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7426338_1_W_ffb0797cf0.jpeg"
-      ]
-    },
-    {
-      "data_scraping": "2026-02-04 05:43:47",
+      "data_scraping": "2026-02-05 05:52:10",
       "codigo": "7366200",
       "modelo": "TOYOTA YARIS HA PLS15CNT",
       "marca": "TOYOTA",
@@ -406,7 +372,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:48",
+      "data_scraping": "2026-02-05 05:52:11",
       "codigo": "7754359",
       "modelo": "HONDA CITY HATCH EXL",
       "marca": "HONDA",
@@ -438,7 +404,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:50",
+      "data_scraping": "2026-02-05 05:52:12",
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -468,7 +434,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:51",
+      "data_scraping": "2026-02-05 05:52:13",
       "codigo": "7618182",
       "modelo": "JEEP RENEGADE 1.8 AT",
       "marca": "JEEP",
@@ -496,42 +462,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:52",
-      "codigo": "7416837",
-      "modelo": "HONDA FIT LX CVT",
-      "marca": "HONDA",
-      "versao": "LX CVT",
-      "preco": "R$ 72.900,00",
-      "ano": "2017",
-      "km": "86.986",
-      "cambio": "AUTOMÁTICO",
-      "combustivel": "FLEX",
-      "cor": "CINZA",
-      "foto_principal": "https://s3.carro57.com.br/FC/6561/7416837_17_M_9157ae04f1.jpeg",
-      "link": "https://camoesmultimarcas.com.br/carros/Honda/Fit/Lx-Cvt/Honda-Fit-Lx-Cvt-2017-Santos-Sao-Paulo-7416837.html",
-      "fotos": [
-        "https://s3.carro57.com.br/FC/6561/7416837_17_W_9157ae04f1.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_1_W_38181e37a6.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_0_W_2787a04cf5.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_59d7de802a.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_878d4b71e7.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_5267acc82b.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_f8cbd51215.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_1_W_ae7261a176.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_1_W_e82a5c5bbb.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_3b5e9ec613.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_270d6bca91.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_33af4bda4c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_1_W_3c9b1c4232.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_1_W_247f3901b6.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_78574e077f.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_2_W_e4a1d39611.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_a641baa0dc.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7416837_7_W_75ad9f72d3.jpeg"
-      ]
-    },
-    {
-      "data_scraping": "2026-02-04 05:43:53",
+      "data_scraping": "2026-02-05 05:52:14",
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
@@ -563,7 +494,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:55",
+      "data_scraping": "2026-02-05 05:52:15",
       "codigo": "7472147",
       "modelo": "VOLKSWAGEN JETTA COMFORT. 250 TSI 1.4 FLEX 16V AUT",
       "marca": "VOLKSWAGEN",
@@ -598,7 +529,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:56",
+      "data_scraping": "2026-02-05 05:52:16",
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
@@ -632,7 +563,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:57",
+      "data_scraping": "2026-02-05 05:52:17",
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -668,7 +599,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:43:59",
+      "data_scraping": "2026-02-05 05:52:18",
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -702,7 +633,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:00",
+      "data_scraping": "2026-02-05 05:52:20",
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -737,7 +668,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:01",
+      "data_scraping": "2026-02-05 05:52:21",
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -771,7 +702,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:03",
+      "data_scraping": "2026-02-05 05:52:22",
       "codigo": "7714105",
       "modelo": "HONDA NXR 150 BROS-ES",
       "marca": "HONDA",
@@ -797,7 +728,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:04",
+      "data_scraping": "2026-02-05 05:52:23",
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -834,7 +765,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:05",
+      "data_scraping": "2026-02-05 05:52:24",
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -867,7 +798,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:06",
+      "data_scraping": "2026-02-05 05:52:25",
       "codigo": "6823066",
       "modelo": "YAMAHA SHO FZR WAVERUNNER",
       "marca": "YAMAHA",
@@ -904,7 +835,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:08",
+      "data_scraping": "2026-02-05 05:52:26",
       "codigo": "7651137",
       "modelo": "HYUNDAI I30 2.0",
       "marca": "HYUNDAI",
@@ -938,7 +869,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-04 05:44:09",
+      "data_scraping": "2026-02-05 05:52:27",
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
