@@ -208,7 +208,9 @@ def webhook_n8n():
                 'fotos': v.get('fotos', []),
                 'cor': v.get('cor'),
                 'link': v.get('link'),
-                'mensagem_whatsapp': f"🚘 *{v.get('marca')} {v.get('modelo')}*\n🎨 Cor: {v.get('cor')}\n📅 {v.get('ano')}\n💰 {v.get('preco')}\n📍 {v.get('km')}\n⚙️ {v.get('cambio')}\n📸 {len(v.get('fotos', []))} fotos disponíveis"
+                'detalhes': v.get('detalhes', ''),
+                'opcionais': v.get('opcionais', []),
+                'mensagem_whatsapp': f"🚘 *{v.get('marca')} {v.get('modelo')}*\n🎨 Cor: {v.get('cor')}\n📅 {v.get('ano')}\n💰 {v.get('preco')}\n📍 {v.get('km')}\n⚙️ {v.get('cambio')}\n📸 {len(v.get('fotos', []))} fotos disponíveis\n\n📝 *Detalhes:*\n{v.get('detalhes', 'Não informado')}"
             })
         
         return jsonify({
