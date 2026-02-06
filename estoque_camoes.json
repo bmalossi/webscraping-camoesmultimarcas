@@ -1,9 +1,9 @@
 {
-  "ultima_atualizacao": "2026-02-06 11:35:25",
+  "ultima_atualizacao": "2026-02-06 14:43:43",
   "total_veiculos": 27,
   "veiculos": [
     {
-      "data_scraping": "2026-02-06 11:34:38",
+      "data_scraping": "2026-02-06 14:43:18",
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:41",
+      "data_scraping": "2026-02-06 14:43:19",
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:43",
+      "data_scraping": "2026-02-06 14:43:20",
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:46",
+      "data_scraping": "2026-02-06 14:43:21",
       "codigo": "7480503",
       "modelo": "HYUNDAI HB20S COMFORT 1.0 TB FLEX 12V AUT.",
       "marca": "HYUNDAI",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:49",
+      "data_scraping": "2026-02-06 14:43:22",
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:51",
+      "data_scraping": "2026-02-06 14:43:24",
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:52",
+      "data_scraping": "2026-02-06 14:43:24",
       "codigo": "7547819",
       "modelo": "VOLKSWAGEN T-Cross Sense 200 TSI 1.0 Flex 5p Aut",
       "marca": "VOLKSWAGEN",
@@ -392,7 +392,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:54",
+      "data_scraping": "2026-02-06 14:43:25",
       "codigo": "7194234",
       "modelo": "RENAULT OROCH PRO 16",
       "marca": "RENAULT",
@@ -436,7 +436,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:55",
+      "data_scraping": "2026-02-06 14:43:26",
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTRAPID BUSIPK",
       "marca": "PEUGEOT",
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:57",
+      "data_scraping": "2026-02-06 14:43:27",
       "codigo": "7494079",
       "modelo": "FIAT MOBI LIKE",
       "marca": "FIAT",
@@ -533,64 +533,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:34:59",
-      "codigo": "7366200",
-      "modelo": "TOYOTA YARIS HA PLS15CNT",
-      "marca": "TOYOTA",
-      "versao": "HA PLS15CNT",
-      "preco": "R$ 84.900,00",
-      "ano": "2022",
-      "km": "61.024",
-      "cambio": "AUTOMÁTICO",
-      "combustivel": "FLEX",
-      "cor": "BRANCO",
-      "foto_principal": "https://s3.carro57.com.br/FC/6561/7366200_18_M_f669b8e7cd.jpeg",
-      "link": "https://camoesmultimarcas.com.br/carros/Toyota/Yaris/Ha-Pls15cnt/Toyota-Yaris-Ha-Pls15cnt-2022-Santos-Sao-Paulo-7366200.html",
-      "fotos": [
-        "https://s3.carro57.com.br/FC/6561/7366200_18_W_f669b8e7cd.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_11_W_cba1482239.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_9_W_2dcca38a59.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_11_W_4a4a0b24bb.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_0_W_55c90176b0.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_0_W_a23e7df19a.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_3_W_7f2299b684.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_4_W_80bbde10df.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_9_W_df399cf926.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_1_W_3eba67a810.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_6_W_3a2b7c6fd0.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_17_W_20619d7231.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_15_W_b17b76c8c3.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_7_W_d794b2fa33.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_9_W_fc5f9cf531.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_9_W_33065a8f96.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_15_W_7010a989aa.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_1_W_b141291a3f.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7366200_7_W_a8a00c2de9.jpeg"
-      ],
-      "detalhes": "Extremamente conservado e com revisão minuciosa!\nCompleto:\nRodas em liga leve;\nMultimídia;\nCâmbio automático;\nAr condicionado digital;\nDireção Hidráulica;\nVidros elétricos.\nVeículo com perícia cautelar aprovada;\nTotalmente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia | Abs, Airbag, Ar-condicionado, Ar Quente, Câmbio Automático, Desembaçador Traseiro, Direção Elétrica, Retrovisor Elétrico, Trava Elétrica, Vidros Elétricos, Banco Reclinável, Chave Cópia/reserva, Encosto De Cabeça Traseiro, Kit Multimídia, Manual Do Proprietário, Som, Touch Screen, Volante Com Multifunção, | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
-      "opcionais": [
-        "Abs",
-        "Airbag",
-        "Ar-condicionado",
-        "Ar Quente",
-        "Câmbio Automático",
-        "Desembaçador Traseiro",
-        "Direção Elétrica",
-        "Retrovisor Elétrico",
-        "Trava Elétrica",
-        "Vidros Elétricos",
-        "Banco Reclinável",
-        "Chave Cópia/reserva",
-        "Encosto De Cabeça Traseiro",
-        "Kit Multimídia",
-        "Manual Do Proprietário",
-        "Som",
-        "Touch Screen",
-        "Volante Com Multifunção"
-      ]
-    },
-    {
-      "data_scraping": "2026-02-06 11:35:00",
+      "data_scraping": "2026-02-06 14:43:28",
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -636,7 +579,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:01",
+      "data_scraping": "2026-02-06 14:43:28",
       "codigo": "7754359",
       "modelo": "HONDA CITY HATCH EXL",
       "marca": "HONDA",
@@ -693,7 +636,64 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:03",
+      "data_scraping": "2026-02-06 14:43:29",
+      "codigo": "7366200",
+      "modelo": "TOYOTA YARIS HA PLS15CNT",
+      "marca": "TOYOTA",
+      "versao": "HA PLS15CNT",
+      "preco": "R$ 84.900,00",
+      "ano": "2022",
+      "km": "61.024",
+      "cambio": "AUTOMÁTICO",
+      "combustivel": "FLEX",
+      "cor": "BRANCO",
+      "foto_principal": "https://s3.carro57.com.br/FC/6561/7366200_18_M_f669b8e7cd.jpeg",
+      "link": "https://camoesmultimarcas.com.br/carros/Toyota/Yaris/Ha-Pls15cnt/Toyota-Yaris-Ha-Pls15cnt-2022-Santos-Sao-Paulo-7366200.html",
+      "fotos": [
+        "https://s3.carro57.com.br/FC/6561/7366200_18_W_f669b8e7cd.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_11_W_cba1482239.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_9_W_2dcca38a59.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_11_W_4a4a0b24bb.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_0_W_55c90176b0.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_0_W_a23e7df19a.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_3_W_7f2299b684.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_4_W_80bbde10df.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_9_W_df399cf926.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_1_W_3eba67a810.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_6_W_3a2b7c6fd0.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_17_W_20619d7231.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_15_W_b17b76c8c3.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_7_W_d794b2fa33.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_9_W_fc5f9cf531.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_9_W_33065a8f96.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_15_W_7010a989aa.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_1_W_b141291a3f.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7366200_7_W_a8a00c2de9.jpeg"
+      ],
+      "detalhes": "Extremamente conservado e com revisão minuciosa!\nCompleto:\nRodas em liga leve;\nMultimídia;\nCâmbio automático;\nAr condicionado digital;\nDireção Hidráulica;\nVidros elétricos.\nVeículo com perícia cautelar aprovada;\nTotalmente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia | Abs, Airbag, Ar-condicionado, Ar Quente, Câmbio Automático, Desembaçador Traseiro, Direção Elétrica, Retrovisor Elétrico, Trava Elétrica, Vidros Elétricos, Banco Reclinável, Chave Cópia/reserva, Encosto De Cabeça Traseiro, Kit Multimídia, Manual Do Proprietário, Som, Touch Screen, Volante Com Multifunção, | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
+      "opcionais": [
+        "Abs",
+        "Airbag",
+        "Ar-condicionado",
+        "Ar Quente",
+        "Câmbio Automático",
+        "Desembaçador Traseiro",
+        "Direção Elétrica",
+        "Retrovisor Elétrico",
+        "Trava Elétrica",
+        "Vidros Elétricos",
+        "Banco Reclinável",
+        "Chave Cópia/reserva",
+        "Encosto De Cabeça Traseiro",
+        "Kit Multimídia",
+        "Manual Do Proprietário",
+        "Som",
+        "Touch Screen",
+        "Volante Com Multifunção"
+      ]
+    },
+    {
+      "data_scraping": "2026-02-06 14:43:30",
       "codigo": "7618182",
       "modelo": "JEEP RENEGADE 1.8 AT",
       "marca": "JEEP",
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:05",
+      "data_scraping": "2026-02-06 14:43:31",
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:06",
+      "data_scraping": "2026-02-06 14:43:32",
       "codigo": "7472147",
       "modelo": "VOLKSWAGEN JETTA COMFORT. 250 TSI 1.4 FLEX 16V AUT",
       "marca": "VOLKSWAGEN",
@@ -829,7 +829,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:08",
+      "data_scraping": "2026-02-06 14:43:33",
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
@@ -888,7 +888,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:10",
+      "data_scraping": "2026-02-06 14:43:34",
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -948,7 +948,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:11",
+      "data_scraping": "2026-02-06 14:43:35",
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -1009,7 +1009,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:14",
+      "data_scraping": "2026-02-06 14:43:36",
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -1069,7 +1069,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:15",
+      "data_scraping": "2026-02-06 14:43:37",
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -1119,7 +1119,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:17",
+      "data_scraping": "2026-02-06 14:43:38",
       "codigo": "7714105",
       "modelo": "HONDA NXR 150 BROS-ES",
       "marca": "HONDA",
@@ -1149,7 +1149,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:18",
+      "data_scraping": "2026-02-06 14:43:39",
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -1208,7 +1208,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:20",
+      "data_scraping": "2026-02-06 14:43:40",
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -1259,7 +1259,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:21",
+      "data_scraping": "2026-02-06 14:43:41",
       "codigo": "6823066",
       "modelo": "YAMAHA SHO FZR WAVERUNNER",
       "marca": "YAMAHA",
@@ -1300,7 +1300,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:23",
+      "data_scraping": "2026-02-06 14:43:41",
       "codigo": "7651137",
       "modelo": "HYUNDAI I30 2.0",
       "marca": "HYUNDAI",
@@ -1357,7 +1357,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-06 11:35:24",
+      "data_scraping": "2026-02-06 14:43:42",
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
