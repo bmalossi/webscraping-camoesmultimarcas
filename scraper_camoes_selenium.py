@@ -413,9 +413,33 @@ class CamoesEstoqueFinal:
                 textos_detalhes = []
                 for bloco in blocos:
                     texto = bloco.text.strip()
-                    if texto:  # Ignora blocos vazios
-                        textos_detalhes.append(texto)
-                # Juntar todos os blocos de detalhes em um texto único
+                    if texto:
+                        # Limpeza: Remover prefixo redundante "Detalhes" se houver
+                        if texto.startswith("Detalhes"):
+                            texto = texto.replace("Detalhes", "", 1).strip()
+                        
+                        # Adicionar apenas se for conteúdo novo (ignora repetições exatas)
+                        if texto and texto not in textos_detalhes:
+                            # Verificação adicional: se o texto já estiver contido em algum bloco anterior ou vice-versa
+                            # Isso ajuda se um bloco for apenas parte de outro maior
+                            ja_existe = False
+                            for t_existente in textos_detalhes:
+                                if texto in t_existente:
+                                    ja_existe = True
+                                    break
+                            
+                            if not ja_existe:
+                                # Se o novo texto for maior e contiver um anterior, substitui o anterior
+                                for i, t_existente in enumerate(textos_detalhes):
+                                    if t_existente in texto:
+                                        textos_detalhes[i] = texto
+                                        ja_existe = True
+                                        break
+                                
+                                if not ja_existe:
+                                    textos_detalhes.append(texto)
+                
+                # Juntar todos os blocos de detalhes únicos
                 detalhes['detalhes'] = ' | '.join(textos_detalhes) if textos_detalhes else ''
             except:
                 pass
