@@ -1,9 +1,9 @@
 {
-  "ultima_atualizacao": "2026-02-05 19:24:56",
+  "ultima_atualizacao": "2026-02-06 05:49:33",
   "total_veiculos": 27,
   "veiculos": [
     {
-      "data_scraping": "2026-02-05 19:24:26",
+      "data_scraping": "2026-02-06 05:48:54",
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:27",
+      "data_scraping": "2026-02-06 05:48:56",
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:29",
+      "data_scraping": "2026-02-06 05:48:57",
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:30",
+      "data_scraping": "2026-02-06 05:48:59",
       "codigo": "7480503",
       "modelo": "HYUNDAI HB20S COMFORT 1.0 TB FLEX 12V AUT.",
       "marca": "HYUNDAI",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:31",
+      "data_scraping": "2026-02-06 05:49:01",
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:33",
+      "data_scraping": "2026-02-06 05:49:03",
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:34",
+      "data_scraping": "2026-02-06 05:49:04",
       "codigo": "7547819",
       "modelo": "VOLKSWAGEN T-Cross Sense 200 TSI 1.0 Flex 5p Aut",
       "marca": "VOLKSWAGEN",
@@ -392,7 +392,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:35",
+      "data_scraping": "2026-02-06 05:49:05",
       "codigo": "7194234",
       "modelo": "RENAULT OROCH PRO 16",
       "marca": "RENAULT",
@@ -436,7 +436,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:36",
+      "data_scraping": "2026-02-06 05:49:07",
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTRAPID BUSIPK",
       "marca": "PEUGEOT",
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:37",
+      "data_scraping": "2026-02-06 05:49:08",
       "codigo": "7494079",
       "modelo": "FIAT MOBI LIKE",
       "marca": "FIAT",
@@ -533,7 +533,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:38",
+      "data_scraping": "2026-02-06 05:49:10",
       "codigo": "7366200",
       "modelo": "TOYOTA YARIS HA PLS15CNT",
       "marca": "TOYOTA",
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:39",
+      "data_scraping": "2026-02-06 05:49:11",
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -636,7 +636,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:40",
+      "data_scraping": "2026-02-06 05:49:12",
       "codigo": "7754359",
       "modelo": "HONDA CITY HATCH EXL",
       "marca": "HONDA",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:41",
+      "data_scraping": "2026-02-06 05:49:14",
       "codigo": "7618182",
       "modelo": "JEEP RENEGADE 1.8 AT",
       "marca": "JEEP",
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:42",
+      "data_scraping": "2026-02-06 05:49:15",
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:43",
+      "data_scraping": "2026-02-06 05:49:16",
       "codigo": "7472147",
       "modelo": "VOLKSWAGEN JETTA COMFORT. 250 TSI 1.4 FLEX 16V AUT",
       "marca": "VOLKSWAGEN",
@@ -829,7 +829,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:44",
+      "data_scraping": "2026-02-06 05:49:18",
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
@@ -888,7 +888,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:45",
+      "data_scraping": "2026-02-06 05:49:19",
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -948,7 +948,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:46",
+      "data_scraping": "2026-02-06 05:49:21",
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -1009,7 +1009,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:47",
+      "data_scraping": "2026-02-06 05:49:22",
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -1069,7 +1069,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:48",
+      "data_scraping": "2026-02-06 05:49:24",
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -1119,7 +1119,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:49",
+      "data_scraping": "2026-02-06 05:49:25",
       "codigo": "7714105",
       "modelo": "HONDA NXR 150 BROS-ES",
       "marca": "HONDA",
@@ -1149,7 +1149,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:50",
+      "data_scraping": "2026-02-06 05:49:26",
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -1208,7 +1208,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:51",
+      "data_scraping": "2026-02-06 05:49:28",
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -1259,7 +1259,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:53",
+      "data_scraping": "2026-02-06 05:49:29",
       "codigo": "7651137",
       "modelo": "HYUNDAI I30 2.0",
       "marca": "HYUNDAI",
@@ -1316,7 +1316,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:54",
+      "data_scraping": "2026-02-06 05:49:31",
       "codigo": "6823066",
       "modelo": "YAMAHA SHO FZR WAVERUNNER",
       "marca": "YAMAHA",
@@ -1357,7 +1357,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-05 19:24:55",
+      "data_scraping": "2026-02-06 05:49:32",
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
