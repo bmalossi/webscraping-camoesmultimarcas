@@ -1,9 +1,9 @@
 {
-  "ultima_atualizacao": "2026-02-10 06:09:41",
+  "ultima_atualizacao": "2026-02-11 06:05:51",
   "total_veiculos": 23,
   "veiculos": [
     {
-      "data_scraping": "2026-02-10 06:09:15",
+      "data_scraping": "2026-02-11 06:05:24",
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:16",
+      "data_scraping": "2026-02-11 06:05:25",
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:17",
+      "data_scraping": "2026-02-11 06:05:26",
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:18",
+      "data_scraping": "2026-02-11 06:05:27",
       "codigo": "7480503",
       "modelo": "HYUNDAI HB20S COMFORT 1.0 TB FLEX 12V AUT.",
       "marca": "HYUNDAI",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:20",
+      "data_scraping": "2026-02-11 06:05:29",
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:22",
+      "data_scraping": "2026-02-11 06:05:31",
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -331,7 +331,51 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:23",
+      "data_scraping": "2026-02-11 06:05:32",
+      "codigo": "7194234",
+      "modelo": "RENAULT OROCH PRO 16",
+      "marca": "RENAULT",
+      "versao": "PRO 16",
+      "preco": "R$ 85.900,00",
+      "ano": "2023",
+      "km": "46.126",
+      "cambio": "MANUAL",
+      "combustivel": "FLEX",
+      "cor": "BRANCO",
+      "foto_principal": "https://s3.carro57.com.br/FC/6561/7194234_1_M_32c426994a.jpeg",
+      "link": "https://camoesmultimarcas.com.br/carros/Renault/Oroch/Pro-16/Renault-Oroch-Pro-16-2023-Santos-Sao-Paulo-7194234.html",
+      "fotos": [
+        "https://s3.carro57.com.br/FC/6561/7194234_1_W_32c426994a.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_1_W_2fa6100170.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_1_W_7cb10a7132.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_3_W_35eefec21f.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_8_W_b9e660b953.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_11_W_7da8d5b81c.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_3_W_7cb8b48151.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_2_W_7fcec07430.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_3_W_cdb78c2f4d.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_0_W_16c990a1ea.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_8_W_459797809e.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7194234_10_W_689f3ee068.jpeg"
+      ],
+      "detalhes": "Extremamente conservado e com revisão minuciosa!\nCompleto:\nAr condicionado;\nDireção Hidráulica;\nVidros elétricos.\nVeículo com perícia cautelar aprovada;\nTotalmente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia | Abs, Airbag, Ar-condicionado, Ar Quente, Câmbio Manual, Direção Hidráulica, Trava Elétrica, Vidros Elétricos, Banco Reclinável, Chave Cópia/reserva, Encosto De Cabeça Traseiro, Manual Do Proprietário, | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
+      "opcionais": [
+        "Abs",
+        "Airbag",
+        "Ar-condicionado",
+        "Ar Quente",
+        "Câmbio Manual",
+        "Direção Hidráulica",
+        "Trava Elétrica",
+        "Vidros Elétricos",
+        "Banco Reclinável",
+        "Chave Cópia/reserva",
+        "Encosto De Cabeça Traseiro",
+        "Manual Do Proprietário"
+      ]
+    },
+    {
+      "data_scraping": "2026-02-11 06:05:33",
       "codigo": "7494079",
       "modelo": "FIAT MOBI LIKE",
       "marca": "FIAT",
@@ -381,51 +425,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:24",
-      "codigo": "7194234",
-      "modelo": "RENAULT OROCH PRO 16",
-      "marca": "RENAULT",
-      "versao": "PRO 16",
-      "preco": "R$ 85.900,00",
-      "ano": "2023",
-      "km": "46.126",
-      "cambio": "MANUAL",
-      "combustivel": "FLEX",
-      "cor": "BRANCO",
-      "foto_principal": "https://s3.carro57.com.br/FC/6561/7194234_1_M_32c426994a.jpeg",
-      "link": "https://camoesmultimarcas.com.br/carros/Renault/Oroch/Pro-16/Renault-Oroch-Pro-16-2023-Santos-Sao-Paulo-7194234.html",
-      "fotos": [
-        "https://s3.carro57.com.br/FC/6561/7194234_1_W_32c426994a.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_1_W_2fa6100170.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_1_W_7cb10a7132.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_3_W_35eefec21f.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_8_W_b9e660b953.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_11_W_7da8d5b81c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_3_W_7cb8b48151.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_2_W_7fcec07430.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_3_W_cdb78c2f4d.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_0_W_16c990a1ea.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_8_W_459797809e.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7194234_10_W_689f3ee068.jpeg"
-      ],
-      "detalhes": "Extremamente conservado e com revisão minuciosa!\nCompleto:\nAr condicionado;\nDireção Hidráulica;\nVidros elétricos.\nVeículo com perícia cautelar aprovada;\nTotalmente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia | Abs, Airbag, Ar-condicionado, Ar Quente, Câmbio Manual, Direção Hidráulica, Trava Elétrica, Vidros Elétricos, Banco Reclinável, Chave Cópia/reserva, Encosto De Cabeça Traseiro, Manual Do Proprietário, | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
-      "opcionais": [
-        "Abs",
-        "Airbag",
-        "Ar-condicionado",
-        "Ar Quente",
-        "Câmbio Manual",
-        "Direção Hidráulica",
-        "Trava Elétrica",
-        "Vidros Elétricos",
-        "Banco Reclinável",
-        "Chave Cópia/reserva",
-        "Encosto De Cabeça Traseiro",
-        "Manual Do Proprietário"
-      ]
-    },
-    {
-      "data_scraping": "2026-02-10 06:09:25",
+      "data_scraping": "2026-02-11 06:05:34",
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTRAPID BUSIPK",
       "marca": "PEUGEOT",
@@ -472,7 +472,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:26",
+      "data_scraping": "2026-02-11 06:05:35",
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -518,7 +518,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:27",
+      "data_scraping": "2026-02-11 06:05:36",
       "codigo": "7618182",
       "modelo": "JEEP RENEGADE 1.8 AT",
       "marca": "JEEP",
@@ -550,12 +550,12 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:27",
+      "data_scraping": "2026-02-11 06:05:37",
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
       "versao": "HL AE",
-      "preco": "R$ 95.900,00",
+      "preco": "R$ 93.900,00",
       "ano": "2017",
       "km": "129.454",
       "cambio": "AUTOMÁTICO",
@@ -602,64 +602,12 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:29",
-      "codigo": "7472147",
-      "modelo": "VOLKSWAGEN JETTA COMFORT. 250 TSI 1.4 FLEX 16V AUT",
-      "marca": "VOLKSWAGEN",
-      "versao": "COMFORT. 250 TSI 1.4 FLEX 16V AUT",
-      "preco": "R$ 78.900,00",
-      "ano": "2016",
-      "km": "84.065",
-      "cambio": "AUTOMÁTICO",
-      "combustivel": "FLEX",
-      "cor": "CINZA",
-      "foto_principal": "https://s3.carro57.com.br/FC/6561/7472147_17_M_f6cbe5b801.jpeg",
-      "link": "https://camoesmultimarcas.com.br/carros/Volkswagen/Jetta/Comfort-250-Tsi-14-Flex-16v-Aut/Volkswagen-Jetta-Comfort-250-Tsi-14-Flex-16v-Aut-2016-Santos-Sao-Paulo-7472147.html",
-      "fotos": [
-        "https://s3.carro57.com.br/FC/6561/7472147_17_W_f6cbe5b801.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_1_W_2d542f27ee.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_0_W_bdd407638b.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_16_W_3fd19a0af2.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_10_W_3fc6f7bd52.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_9_W_a3643b128d.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_7_W_df1b20ddd1.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_1_W_7e491b52f5.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_0_W_e3169e817c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_8_W_968d566a6e.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_10_W_15b6dd86e5.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_14_W_c7ab8a3cbb.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_1_W_f65b27c9c6.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_0_W_8ef0dc520e.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_0_W_30a0858508.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_14_W_d4b57c1042.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_7_W_17f8d2627c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/7472147_7_W_49f209bd74.jpeg"
-      ],
-      "detalhes": "Apenas 84.000 km! Único dono!\n4 Pneus novos, impecável!\n\nExtremamente conservado e com revisão minuciosa!\nCompleto:\nAr condicionado;\nDireção Hidráulica;\nVidros elétricos.\nVeículo com perícia cautelar aprovada;\nTotalmente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia | Abs, Airbag, Ar-condicionado, Ar Quente, Câmbio Automático, Desembaçador Traseiro, Direção Elétrica, Rodas De Liga Leve, Trava Elétrica, Vidros Elétricos, Banco Reclinável, Manual Do Proprietário, Som, Volante Com Multifunção, | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
-      "opcionais": [
-        "Abs",
-        "Airbag",
-        "Ar-condicionado",
-        "Ar Quente",
-        "Câmbio Automático",
-        "Desembaçador Traseiro",
-        "Direção Elétrica",
-        "Rodas De Liga Leve",
-        "Trava Elétrica",
-        "Vidros Elétricos",
-        "Banco Reclinável",
-        "Manual Do Proprietário",
-        "Som",
-        "Volante Com Multifunção"
-      ]
-    },
-    {
-      "data_scraping": "2026-02-10 06:09:30",
+      "data_scraping": "2026-02-11 06:05:38",
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
       "versao": "LXR",
-      "preco": "R$ 83.900,00",
+      "preco": "R$ 81.900,00",
       "ano": "2016",
       "km": "110.002",
       "cambio": "AUTOMÁTICO",
@@ -713,7 +661,59 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:31",
+      "data_scraping": "2026-02-11 06:05:39",
+      "codigo": "7472147",
+      "modelo": "VOLKSWAGEN JETTA COMFORT. 250 TSI 1.4 FLEX 16V AUT",
+      "marca": "VOLKSWAGEN",
+      "versao": "COMFORT. 250 TSI 1.4 FLEX 16V AUT",
+      "preco": "R$ 77.900,00",
+      "ano": "2016",
+      "km": "84.065",
+      "cambio": "AUTOMÁTICO",
+      "combustivel": "FLEX",
+      "cor": "CINZA",
+      "foto_principal": "https://s3.carro57.com.br/FC/6561/7472147_17_M_f6cbe5b801.jpeg",
+      "link": "https://camoesmultimarcas.com.br/carros/Volkswagen/Jetta/Comfort-250-Tsi-14-Flex-16v-Aut/Volkswagen-Jetta-Comfort-250-Tsi-14-Flex-16v-Aut-2016-Santos-Sao-Paulo-7472147.html",
+      "fotos": [
+        "https://s3.carro57.com.br/FC/6561/7472147_17_W_f6cbe5b801.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_1_W_2d542f27ee.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_0_W_bdd407638b.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_16_W_3fd19a0af2.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_10_W_3fc6f7bd52.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_9_W_a3643b128d.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_7_W_df1b20ddd1.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_1_W_7e491b52f5.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_0_W_e3169e817c.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_8_W_968d566a6e.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_10_W_15b6dd86e5.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_14_W_c7ab8a3cbb.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_1_W_f65b27c9c6.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_0_W_8ef0dc520e.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_0_W_30a0858508.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_14_W_d4b57c1042.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_7_W_17f8d2627c.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7472147_7_W_49f209bd74.jpeg"
+      ],
+      "detalhes": "Apenas 84.000 km! Único dono!\n4 Pneus novos, impecável!\n\nExtremamente conservado e com revisão minuciosa!\nCompleto:\nAr condicionado;\nDireção Hidráulica;\nVidros elétricos.\nVeículo com perícia cautelar aprovada;\nTotalmente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia | Abs, Airbag, Ar-condicionado, Ar Quente, Câmbio Automático, Desembaçador Traseiro, Direção Elétrica, Rodas De Liga Leve, Trava Elétrica, Vidros Elétricos, Banco Reclinável, Manual Do Proprietário, Som, Volante Com Multifunção, | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
+      "opcionais": [
+        "Abs",
+        "Airbag",
+        "Ar-condicionado",
+        "Ar Quente",
+        "Câmbio Automático",
+        "Desembaçador Traseiro",
+        "Direção Elétrica",
+        "Rodas De Liga Leve",
+        "Trava Elétrica",
+        "Vidros Elétricos",
+        "Banco Reclinável",
+        "Manual Do Proprietário",
+        "Som",
+        "Volante Com Multifunção"
+      ]
+    },
+    {
+      "data_scraping": "2026-02-11 06:05:41",
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -773,7 +773,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:32",
+      "data_scraping": "2026-02-11 06:05:42",
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -834,7 +834,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:33",
+      "data_scraping": "2026-02-11 06:05:43",
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -894,7 +894,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:34",
+      "data_scraping": "2026-02-11 06:05:44",
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:36",
+      "data_scraping": "2026-02-11 06:05:45",
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -1003,7 +1003,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:37",
+      "data_scraping": "2026-02-11 06:05:47",
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -1054,7 +1054,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:37",
+      "data_scraping": "2026-02-11 06:05:48",
       "codigo": "7714105",
       "modelo": "HONDA NXR 150 BROS-ES",
       "marca": "HONDA",
@@ -1084,7 +1084,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:38",
+      "data_scraping": "2026-02-11 06:05:49",
       "codigo": "6823066",
       "modelo": "YAMAHA SHO FZR WAVERUNNER",
       "marca": "YAMAHA",
@@ -1125,7 +1125,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-10 06:09:40",
+      "data_scraping": "2026-02-11 06:05:50",
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
