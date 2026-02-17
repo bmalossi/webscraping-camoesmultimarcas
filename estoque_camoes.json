@@ -1,9 +1,9 @@
 {
-  "ultima_atualizacao": "2026-02-16 06:03:35",
+  "ultima_atualizacao": "2026-02-17 05:55:01",
   "total_veiculos": 27,
   "veiculos": [
     {
-      "data_scraping": "2026-02-16 06:02:53",
+      "data_scraping": "2026-02-17 05:54:29",
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:02:54",
+      "data_scraping": "2026-02-17 05:54:30",
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:02:55",
+      "data_scraping": "2026-02-17 05:54:31",
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:02:57",
+      "data_scraping": "2026-02-17 05:54:33",
       "codigo": "7480503",
       "modelo": "HYUNDAI HB20S COMFORT 1.0 TB FLEX 12V AUT.",
       "marca": "HYUNDAI",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:02:58",
+      "data_scraping": "2026-02-17 05:54:35",
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:00",
+      "data_scraping": "2026-02-17 05:54:36",
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:01",
+      "data_scraping": "2026-02-17 05:54:37",
       "codigo": "7777407",
       "modelo": "RENAULT KWID ZEN 2",
       "marca": "RENAULT",
@@ -341,15 +341,29 @@
       "km": "54.587",
       "cambio": "MANUAL",
       "combustivel": "FLEX",
-      "cor": "",
+      "cor": "BRANCO",
       "foto_principal": "https://s3.carro57.com.br/FC/6561/7777407_11_M_a78ea17d8f.jpeg",
       "link": "https://camoesmultimarcas.com.br/carros/Renault/Kwid/Zen-2/Renault-Kwid-Zen-2-2024-Santos-Sao-Paulo-7777407.html",
-      "fotos": [],
-      "detalhes": "",
-      "opcionais": []
+      "fotos": [
+        "https://s3.carro57.com.br/FC/6561/7777407_11_W_a78ea17d8f.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_2_W_494d5004f7.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_5_W_654a9d1ee4.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_2_W_f9cc5e3d1e.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_5_W_7bbb223c6a.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_7_W_6531e2a1ec.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_9_W_e5732ed4aa.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_7_W_25196cef0d.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_2_W_f9824d22e1.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_1_W_54449f3ecb.jpeg",
+        "https://s3.carro57.com.br/FC/6561/7777407_0_W_9c1f81a19f.jpeg"
+      ],
+      "detalhes": "? RENAULT KWID ZEN 1.0 FLEX 2024 - MANUAL!\n\nCompacto moderno, econômico e ideal para o dia a dia. Excelente custo-benefício e baixo consumo.\n\n? Ano 2024\n? Motor 1.0 Flex ? 71cv\n? Câmbio manual\n? Cor Branca\n? 54.587 KM Quilometragem\n\n? Opcionais:\n- Ar-condicionado\n- Direção elétrica\n- Vidros elétricos dianteiros\n- Travas elétricas\n- Airbags\n- Freios ABS\n- Central multimídia\n- Computador de bordo\n- Controle de estabilidade\n\n? Aceitamos seu carro na troca com avaliação justa!\n? Financiamento em até 60x com as melhores taxas!\n? Aceitamos cartão de crédito (consulte condições).\n\nAqui na Camões Multimarcas você compra com segurança, transparência e procedência garantida! | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
+      "opcionais": [
+        "Opcionais"
+      ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:13",
+      "data_scraping": "2026-02-17 05:54:38",
       "codigo": "7194234",
       "modelo": "RENAULT OROCH PRO 16",
       "marca": "RENAULT",
@@ -393,7 +407,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:14",
+      "data_scraping": "2026-02-17 05:54:39",
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTRAPID BUSIPK",
       "marca": "PEUGEOT",
@@ -440,7 +454,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:15",
+      "data_scraping": "2026-02-17 05:54:40",
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -486,7 +500,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:16",
+      "data_scraping": "2026-02-17 05:54:42",
       "codigo": "7810378",
       "modelo": "HONDA PCX 150",
       "marca": "HONDA",
@@ -516,7 +530,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:17",
+      "data_scraping": "2026-02-17 05:54:43",
       "codigo": "7781227",
       "modelo": "VOLKSWAGEN FOX XTREME MB",
       "marca": "VOLKSWAGEN",
@@ -548,7 +562,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:18",
+      "data_scraping": "2026-02-17 05:54:44",
       "codigo": "7787464",
       "modelo": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
       "marca": "VOLKSWAGEN",
@@ -578,7 +592,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:19",
+      "data_scraping": "2026-02-17 05:54:45",
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
@@ -630,7 +644,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:21",
+      "data_scraping": "2026-02-17 05:54:46",
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
@@ -689,7 +703,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:22",
+      "data_scraping": "2026-02-17 05:54:47",
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -749,7 +763,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:23",
+      "data_scraping": "2026-02-17 05:54:48",
       "codigo": "7802311",
       "modelo": "FORD FOCUS SE AT 2.0T",
       "marca": "FORD",
@@ -780,7 +794,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:24",
+      "data_scraping": "2026-02-17 05:54:49",
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -841,7 +855,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:25",
+      "data_scraping": "2026-02-17 05:54:51",
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -901,7 +915,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:26",
+      "data_scraping": "2026-02-17 05:54:52",
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -951,7 +965,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:28",
+      "data_scraping": "2026-02-17 05:54:53",
       "codigo": "7791420",
       "modelo": "VOLKSWAGEN FOX 1.0 GII",
       "marca": "VOLKSWAGEN",
@@ -982,7 +996,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:29",
+      "data_scraping": "2026-02-17 05:54:54",
       "codigo": "7728617",
       "modelo": "HYUNDAI I30 2.0",
       "marca": "HYUNDAI",
@@ -1014,7 +1028,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:29",
+      "data_scraping": "2026-02-17 05:54:55",
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -1065,7 +1079,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:30",
+      "data_scraping": "2026-02-17 05:54:56",
       "codigo": "7753615",
       "modelo": "CITROEN C3 EXCL 14 FLEX",
       "marca": "CITROEN",
@@ -1097,7 +1111,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:32",
+      "data_scraping": "2026-02-17 05:54:57",
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -1156,7 +1170,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:33",
+      "data_scraping": "2026-02-17 05:54:58",
       "codigo": "6823066",
       "modelo": "YAMAHA SHO FZR WAVERUNNER",
       "marca": "YAMAHA",
@@ -1197,7 +1211,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-16 06:03:34",
+      "data_scraping": "2026-02-17 05:55:00",
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
