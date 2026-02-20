@@ -1,9 +1,9 @@
 {
-  "ultima_atualizacao": "2026-02-19 05:55:18",
-  "total_veiculos": 26,
+  "ultima_atualizacao": "2026-02-20 05:49:54",
+  "total_veiculos": 25,
   "veiculos": [
     {
-      "data_scraping": "2026-02-19 05:54:48",
+      "data_scraping": "2026-02-20 05:49:25",
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:50",
+      "data_scraping": "2026-02-20 05:49:27",
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:51",
+      "data_scraping": "2026-02-20 05:49:28",
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:52",
+      "data_scraping": "2026-02-20 05:49:29",
       "codigo": "7480503",
       "modelo": "HYUNDAI HB20S COMFORT 1.0 TB FLEX 12V AUT.",
       "marca": "HYUNDAI",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:54",
+      "data_scraping": "2026-02-20 05:49:31",
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -284,7 +284,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:56",
+      "data_scraping": "2026-02-20 05:49:33",
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:57",
+      "data_scraping": "2026-02-20 05:49:34",
       "codigo": "7777407",
       "modelo": "RENAULT KWID ZEN 2",
       "marca": "RENAULT",
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:58",
+      "data_scraping": "2026-02-20 05:49:35",
       "codigo": "7194234",
       "modelo": "RENAULT OROCH PRO 16",
       "marca": "RENAULT",
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:54:59",
+      "data_scraping": "2026-02-20 05:49:36",
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTRAPID BUSIPK",
       "marca": "PEUGEOT",
@@ -454,7 +454,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:00",
+      "data_scraping": "2026-02-20 05:49:37",
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -500,7 +500,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:01",
+      "data_scraping": "2026-02-20 05:49:38",
       "codigo": "7810378",
       "modelo": "HONDA PCX 150",
       "marca": "HONDA",
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:02",
+      "data_scraping": "2026-02-20 05:49:39",
       "codigo": "7781227",
       "modelo": "VOLKSWAGEN FOX XTREME MB",
       "marca": "VOLKSWAGEN",
@@ -562,7 +562,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:03",
+      "data_scraping": "2026-02-20 05:49:40",
       "codigo": "7787464",
       "modelo": "VOLKSWAGEN NOVA SAVEIRO RB MBVS",
       "marca": "VOLKSWAGEN",
@@ -592,7 +592,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:04",
+      "data_scraping": "2026-02-20 05:49:41",
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
@@ -644,7 +644,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:05",
+      "data_scraping": "2026-02-20 05:49:42",
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:06",
+      "data_scraping": "2026-02-20 05:49:43",
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -763,7 +763,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:07",
+      "data_scraping": "2026-02-20 05:49:44",
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -824,7 +824,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:09",
+      "data_scraping": "2026-02-20 05:49:45",
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -884,7 +884,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:10",
+      "data_scraping": "2026-02-20 05:49:46",
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -934,7 +934,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:11",
+      "data_scraping": "2026-02-20 05:49:48",
       "codigo": "7791420",
       "modelo": "VOLKSWAGEN FOX 1.0 GII",
       "marca": "VOLKSWAGEN",
@@ -965,7 +965,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:12",
+      "data_scraping": "2026-02-20 05:49:49",
       "codigo": "7728617",
       "modelo": "HYUNDAI I30 2.0",
       "marca": "HYUNDAI",
@@ -997,7 +997,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:13",
+      "data_scraping": "2026-02-20 05:49:50",
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -1048,7 +1048,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:14",
+      "data_scraping": "2026-02-20 05:49:51",
       "codigo": "7753615",
       "modelo": "CITROEN C3 EXCL 14 FLEX",
       "marca": "CITROEN",
@@ -1080,7 +1080,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:15",
+      "data_scraping": "2026-02-20 05:49:52",
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -1139,48 +1139,7 @@
       ]
     },
     {
-      "data_scraping": "2026-02-19 05:55:16",
-      "codigo": "6823066",
-      "modelo": "YAMAHA SHO FZR WAVERUNNER",
-      "marca": "YAMAHA",
-      "versao": "FZR WAVERUNNER",
-      "preco": "R$ 65.900,00",
-      "ano": "2011",
-      "km": "354",
-      "cambio": "NENHUM",
-      "combustivel": "GASOLINA",
-      "cor": "VERMELHO",
-      "foto_principal": "https://s3.carro57.com.br/FC/6561/6823066_6_M_bf656c7f27.jpeg",
-      "link": "https://camoesmultimarcas.com.br/carros/Yamaha/Sho/Fzr-Waverunner/Yamaha-Sho-Fzr-Waverunner-2011-Santos-Sao-Paulo-6823066.html",
-      "fotos": [
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_bf656c7f27.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_0_W_3d1960e773.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_1_W_4b67d88b8c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_1_W_20852a500c.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_4_W_4477703a1b.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_1_W_278a9abf28.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_19_W_69b59453e0.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_ede0813344.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_685b5bdc52.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_0e824238c6.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_84344b095a.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_bb152dac7a.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_6dee60658e.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_d0c600d29a.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_721f04e92f.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_32f21ec9fc.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_6_W_abc034162f.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_3_W_15ec1ba180.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_17_W_25135811c5.jpeg",
-        "https://s3.carro57.com.br/FC/6561/6823066_17_W_eab7b7ec10.jpeg"
-      ],
-      "detalhes": "Yamaha Sho Waverunner FZR ano 2010 inscrição 2011\n354 Horas;\nAcompanha carretinha;\n\nRecentemente revisado;\nSem detalhes!\nE muito mais! Entre em contato e confira!\n\nAceitamos seu carro na troca, com a melhor avaliação do mercado! Avaliação justa e com transparência.\nFazemos financiamento em até 60x! Com as melhores taxas do mercado.\nAceitamos pagamento com cartões de crédito!\n\nCamões Multimarcas, onde você encontra as melhores opções de usados e seminovos, nosso objetivo é sempre oferecer as melhores ofertas, com qualidade e confiabilidade!\n\nTodos os carros e motos são periciados e com garantia. | CARROS SEMINOVOS COM OS MELHORES PREÇOS DE SANTOS! - CAMÕES MULTIMARCAS\nCAMÕES MULTIMARCAS\nAvenida Conselheiro Nébias,474 Encruzilhada - Santos\n(13)99159-3602",
-      "opcionais": [
-        "Opcionais"
-      ]
-    },
-    {
-      "data_scraping": "2026-02-19 05:55:17",
+      "data_scraping": "2026-02-20 05:49:53",
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
