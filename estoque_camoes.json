@@ -1,9 +1,9 @@
 {
-  "ultima_atualizacao": "2026-03-01 05:47:46",
+  "ultima_atualizacao": "2026-03-02 05:47:57",
   "total_veiculos": 23,
   "veiculos": [
     {
-      "data_scraping": "2026-03-01 05:47:18",
+      "data_scraping": "2026-03-02 05:47:32",
       "codigo": "7329496",
       "modelo": "FIAT CRONOS DRIVE 1.3",
       "marca": "FIAT",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:19",
+      "data_scraping": "2026-03-02 05:47:34",
       "codigo": "7777407",
       "modelo": "RENAULT KWID ZEN 2",
       "marca": "RENAULT",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:20",
+      "data_scraping": "2026-03-02 05:47:35",
       "codigo": "7137160",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:22",
+      "data_scraping": "2026-03-02 05:47:36",
       "codigo": "6978039",
       "modelo": "CHEVROLET SILVERADO HC",
       "marca": "CHEVROLET",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:24",
+      "data_scraping": "2026-03-02 05:47:37",
       "codigo": "6861249",
       "modelo": "FIAT STRADA ENDURANCE 1.3 Flex 8V CS",
       "marca": "FIAT",
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:25",
+      "data_scraping": "2026-03-02 05:47:38",
       "codigo": "7396853",
       "modelo": "VOLKSWAGEN SAVEIRO CS RB MF",
       "marca": "VOLKSWAGEN",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:26",
+      "data_scraping": "2026-03-02 05:47:40",
       "codigo": "7194234",
       "modelo": "RENAULT OROCH PRO 16",
       "marca": "RENAULT",
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:27",
+      "data_scraping": "2026-03-02 05:47:41",
       "codigo": "7305225",
       "modelo": "PEUGEOT PARTNER RAPID BUSINESS PACK 14",
       "marca": "PEUGEOT",
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:28",
+      "data_scraping": "2026-03-02 05:47:42",
       "codigo": "7700808",
       "modelo": "FIAT STRADA ENDURANCE CABINE SIMPLES",
       "marca": "FIAT",
@@ -444,7 +444,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:29",
+      "data_scraping": "2026-03-02 05:47:42",
       "codigo": "7810378",
       "modelo": "HONDA PCX 150",
       "marca": "HONDA",
@@ -474,7 +474,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:30",
+      "data_scraping": "2026-03-02 05:47:43",
       "codigo": "7781227",
       "modelo": "VOLKSWAGEN FOX XTREME 1.6",
       "marca": "VOLKSWAGEN",
@@ -506,7 +506,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:31",
+      "data_scraping": "2026-03-02 05:47:44",
       "codigo": "7302743",
       "modelo": "VOLKSWAGEN JETTA HL AE",
       "marca": "VOLKSWAGEN",
@@ -558,7 +558,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:33",
+      "data_scraping": "2026-03-02 05:47:46",
       "codigo": "7693006",
       "modelo": "HONDA CIVIC LXR",
       "marca": "HONDA",
@@ -617,7 +617,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:34",
+      "data_scraping": "2026-03-02 05:47:47",
       "codigo": "7023387",
       "modelo": "LAND ROVER DISCOVERY SPORT 2.0 16V S14 TURBO GASOLINA SE 4P AUTOMÁTICO",
       "marca": "LAND",
@@ -677,7 +677,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:35",
+      "data_scraping": "2026-03-02 05:47:48",
       "codigo": "7791420",
       "modelo": "VOLKSWAGEN FOX 1.0 GII",
       "marca": "VOLKSWAGEN",
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:36",
+      "data_scraping": "2026-03-02 05:47:49",
       "codigo": "7085711",
       "modelo": "TOYOTA HILUXSW4 SRV4X4",
       "marca": "TOYOTA",
@@ -769,7 +769,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:38",
+      "data_scraping": "2026-03-02 05:47:50",
       "codigo": "7768548",
       "modelo": "NISSAN TIIDA 18SL FLEX",
       "marca": "NISSAN",
@@ -829,7 +829,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:39",
+      "data_scraping": "2026-03-02 05:47:51",
       "codigo": "7468456",
       "modelo": "VOLKSWAGEN JETTA 2.0",
       "marca": "VOLKSWAGEN",
@@ -879,7 +879,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:40",
+      "data_scraping": "2026-03-02 05:47:52",
       "codigo": "7617262",
       "modelo": "KIA CARNIVAL EX 3.5LV6",
       "marca": "KIA",
@@ -938,7 +938,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:41",
+      "data_scraping": "2026-03-02 05:47:53",
       "codigo": "7728617",
       "modelo": "HYUNDAI I30 2.0",
       "marca": "HYUNDAI",
@@ -970,7 +970,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:42",
+      "data_scraping": "2026-03-02 05:47:54",
       "codigo": "7753615",
       "modelo": "CITROEN C3 EXCL 14 FLEX",
       "marca": "CITROEN",
@@ -1002,7 +1002,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:43",
+      "data_scraping": "2026-03-02 05:47:55",
       "codigo": "7761327",
       "modelo": "RENAULT SANDERO 1.6 PRIVILEGE",
       "marca": "RENAULT",
@@ -1053,7 +1053,7 @@
       ]
     },
     {
-      "data_scraping": "2026-03-01 05:47:44",
+      "data_scraping": "2026-03-02 05:47:56",
       "codigo": "7626134",
       "modelo": "VOLKSWAGEN GOLF 2.0",
       "marca": "VOLKSWAGEN",
